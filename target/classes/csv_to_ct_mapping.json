@@ -1,0 +1,14 @@
+{
+    "firstName": 0,
+    "lastName": 1,
+    "companyName": 2,
+    "addresses.additionalStreetInfo": 3,
+    "addresses.city": 4,
+    "addresses.country": 5,
+    "addresses.state": 6,
+    "addresses.postalCode": 7,
+    "addresses.phone": 8,
+    "addresses.mobile": 9,
+    "email": 10,
+    "addresses.custom": 11
+}
